@@ -6,7 +6,7 @@ public class Serveur {
 	public InetAddress adr;
 	public String msg;
 	public byte[] tampon;
-	
+	//hghghghghghghgh
 	public Serveur(){
 		port = 5000;
 		adr = null;
